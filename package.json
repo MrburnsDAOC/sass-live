@@ -1,0 +1,24 @@
+{
+  "name": "sass-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch main.scss main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrburnsDAOC/sass-live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrburnsDAOC/sass-live/issues"
+  },
+  "homepage": "https://github.com/MrburnsDAOC/sass-live#readme",
+  "dependencies": {
+    "sass": "^1.59.3"
+  }
+}
